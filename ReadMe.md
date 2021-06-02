@@ -1,4 +1,4 @@
 ## Patika.dev react-native ödevi
 
-![first image](./ReadMeImages/Screenshot_One.png) 
-![second image](./ReadMeImages/Screenshot_Two.png) 
+<img src="./ReadMeImages/Screenshot_One.png" Height="850" width="450">
+<img src="./ReadMeImages/Screenshot_Two.png" Height="850" width="450">
