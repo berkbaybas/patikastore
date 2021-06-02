@@ -1,4 +1,4 @@
 ## Patika.dev react-native ödevi
 
-[logo]: (./ReadMeImages/ScreenshotOne.png) "first image"
-[logo]: (./ReadMeImages/ScreenshotTwo.png) "second image"
+![first image](./ReadMeImages/Screenshot_One.png) 
+![second image](./ReadMeImages/Screenshot_Two.png) 
